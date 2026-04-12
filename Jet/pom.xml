@@ -82,6 +82,14 @@
         <!-- JAXB removed: replaced javax.xml.bind.DatatypeConverter with java.util.HexFormat -->
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/wigledejong/jet</url>
+        </repository>
+    </distributionManagement>
+
     <build>
         <finalName>jet</finalName>
         <plugins>
