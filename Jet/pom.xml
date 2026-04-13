@@ -86,7 +86,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/wigledejong/jet</url>
+            <url>https://maven.pkg.github.com/U-Trex-B-V/jet</url>
         </repository>
     </distributionManagement>
 
